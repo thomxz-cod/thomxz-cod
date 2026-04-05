@@ -30,20 +30,10 @@
 
 ---
 
-## 📊 Estatísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thomxz-cod&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomxz-cod&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🌐 Contato
 
--  Linkedin: [seuemail@email.com](https://www.linkedin.com/in/devthomazerick/)  
--  insta: [https://linkedin.com/in/seu-perfil  ](https://www.instagram.com/thomxz._7)
+- [Linkedin](https://www.linkedin.com/in/devthomazerick/)  
+- [Insta](https://www.instagram.com/thomxz._7)
 
 ---
 
