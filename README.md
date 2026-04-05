@@ -8,6 +8,12 @@
 
 ---
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FF0000&size=24&center=true&vCenter=true&width=500&lines=Desenvolvedor+em+formação;Futuro+Engenheiro+de+Software;Sempre+aprendendo+novas+tecnologias;Bem-vindo+ao+meu+perfil!" />
+</div>
+  
+---
+
 ## 💻 Sobre mim
 
 - 🎓 Estudante do ensino médio + técnico em desenvolvimento de sistemas  
