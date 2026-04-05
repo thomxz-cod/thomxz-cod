@@ -32,13 +32,11 @@
 
 ## 📊 Estatísticas
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thomxz-cod&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomxz-cod&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
