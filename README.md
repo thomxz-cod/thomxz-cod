@@ -8,7 +8,7 @@
 
 ---
 
-## 🧑‍💻 Sobre mim
+## 💻 Sobre mim
 
 - 🎓 Estudante do ensino médio + técnico em desenvolvimento de sistemas  
 - 💻 Futuro engenheiro de software  
