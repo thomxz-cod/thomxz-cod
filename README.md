@@ -19,7 +19,8 @@
 - 🎓 Estudante do ensino médio + técnico em desenvolvimento de sistemas  
 - 💻 Futuro engenheiro de software  
 - 🚀 Sempre aprendendo novas tecnologias  
-- 🕸️ Transformando código em soluções  
+- 🕸️ Transformando código em soluções
+- 🏆 Competidor do Wordskill
 
 ---
 
