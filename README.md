@@ -26,7 +26,7 @@
 
 ## 🛠️ Tecnologias
 
-<div align="center" style="max-width: 700px; margin: auto;">
+<div align="center" style="max-width: 400px; margin: auto;">
 
   <img src="https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white"/>
