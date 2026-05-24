@@ -9,18 +9,18 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=FF0000&size=24&center=true&vCenter=true&width=500&lines=Desenvolvedor+em+formação;Futuro+Engenheiro+de+Software;Sempre+aprendendo+novas+tecnologias;Bem-vindo+ao+meu+perfil!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FF0000&size=24&center=true&vCenter=true&width=500&lines=CyberSecurity+em+formação;Futuro+Hacker+Ético;Sempre+aprendendo+novas+tecnologias;Bem-vindo+ao+meu+perfil!" />
 </div>
   
 ---
 
 ## 💻 Sobre mim
 
-- 🎓 Estudante do ensino médio + técnico em desenvolvimento de sistemas  
-- 💻 Futuro engenheiro de software  
-- 🚀 Sempre aprendendo novas tecnologias  
-- 🕸️ Transformando código em soluções
 - 🏆 Competidor do Wordskill
+- 🎓 Estudante do ensino médio + técnico em desenvolvimento de sistemas  
+- 💻 Futuro Hacker Ético
+- 🚀 Sempre aprendendo novas tecnologias  
+- 🕸️ Solucionando Vulnerabilidades
 
 ---
 
@@ -55,6 +55,6 @@
 
 <div align="center">
 
-🕷️ Feito com dedicação e código 🕷️  
+<p style="color: #FF0000;"> 🕷️ Feito com dedicação e código 🕷️ </p>  
 
 </div>
