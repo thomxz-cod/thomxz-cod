@@ -49,7 +49,7 @@
 ## 🌐 Contato
 
 - [Linkedin](https://www.linkedin.com/in/devthomazerick/)  
-- [Insta](https://www.instagram.com/thomxz._7)
+- [Insta](https://www.instagram.com/tz._zzz7)
 
 ---
 
