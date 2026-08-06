@@ -27,7 +27,7 @@
 ## 🛠️ Tecnologias
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://i.pinimg.com/736x/2a/b5/00/2ab500337e2d885037c5b8daa23d835c.jpg" alt="Python"/>
 </div>
 
 ---
