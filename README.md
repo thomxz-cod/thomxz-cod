@@ -26,10 +26,16 @@
 
 ## 🛠️ Tecnologias
 
-<div align="center">
-  <img src="https://i.pinimg.com/736x/2a/b5/00/2ab500337e2d885037c5b8daa23d835c.jpg" alt="Python"/>
-  <img src="https://i.pinimg.com/736x/69/70/fd/6970fd9c413605133883c2a1826fc62a.jpg" alt="Nginx"/>
-</div>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://i.pinimg.com/736x/2a/b5/00/2ab500337e2d885037c5b8daa23d835c.jpg" alt="Python" width="100%">
+    </td>
+    <td align="center" width="50%">
+      <img src="https://i.pinimg.com/736x/69/70/fd/6970fd9c413605133883c2a1826fc62a.jpg" alt="Nginx" width="100%">
+    </td>
+  </tr>
+</table>
 
 ---
 
