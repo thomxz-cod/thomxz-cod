@@ -28,7 +28,7 @@
 
 <div align="center">
   <img src="https://i.pinimg.com/736x/2a/b5/00/2ab500337e2d885037c5b8daa23d835c.jpg" alt="Python"/>
-  <img src="https://chatgpt.com/backend-api/estuary/content?id=file_00000000ae04820e8b58e690dc1aea00&ts=496155&p=fs&cid=1&sig=79a4ffc31b7f7cb607f10569b82e094319ba42611c1e872157de06bee28918b4&v=0" alt="Nginx"/>
+  <img src="https://i.pinimg.com/736x/69/70/fd/6970fd9c413605133883c2a1826fc62a.jpg" alt="Nginx"/>
 </div>
 
 ---
